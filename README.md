@@ -1,2 +1,2 @@
-# TASK_1_Score_Prediction
+# GRIP-TASK1
 STUDENT SCORE PREDICTION 
